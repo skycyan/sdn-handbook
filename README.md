@@ -18,10 +18,6 @@ SDN （Software Defined Networking）作为当前最重要的热门技术之一�
 
 可以通过[GitBook](https://sdn.feisky.xyz)或者[Github](https://github.com/zops/sdn-handbook/blob/master/SUMMARY.md)来在线阅读。
 
-## 微信公众号
-
-![](images/wx.png)
-
 ## 项目源码
 
 项目源码存放于Github上，见[https://github.com/feiskyer/sdn-handbook](https://github.com/feiskyer/sdn-handbook)。
