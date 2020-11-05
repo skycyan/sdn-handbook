@@ -15,7 +15,7 @@ TCP/IP模型是互联网的基础，它是一系列网络协议的总称。这�
 
 当然在理论上，还有一个OSI七层模型：物理层、数据链路层、网络层、传输层、会话层、表示层和应用层。这是一个理想模型，由于其复杂性并没有被大家广泛采用。
 
-![](media/tcpip.png)
+![](media/https://feisky.gitbooks.io/sdn/content/basic/media/tcpip.png)
 
 ## 链路层
 
